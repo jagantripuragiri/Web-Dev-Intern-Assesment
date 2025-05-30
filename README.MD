@@ -18,7 +18,7 @@ This project is a **responsive landing page** developed as part of the Web Devel
 
 ##  Live 
 
- **[Click here to view the deployed project](https://your-deployment-url.com)**
+ **[Click here to view the deployed project](https://jagantripuragiri.github.io/Web-Dev-Intern-Assesment/)**
 
 
 ## 📂 Folder Structure
