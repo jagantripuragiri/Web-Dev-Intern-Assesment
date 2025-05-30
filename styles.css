@@ -64,7 +64,7 @@ font-family: Figtree;
 }
 .mid-1{
     
-    background-image: url('/images/image.png');
+    background-image: url('./images/image.png');
     flex: 0 0 60%;
       background-color: #f0ad4e;
       
