@@ -27,8 +27,8 @@ This project is a **responsive landing page** developed as part of the Web Devel
 
 ## 📂 Folder Structure
 
-/project-root
+/Web-Dev-Intern-Assesment
 ├── index.html
 ├── styles.css
-├── script.js
+├── script.js[Not writed because of no need]
 └── /images
